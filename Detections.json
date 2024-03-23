@@ -1,0 +1,289 @@
+{
+ "images": [
+  {
+   "file": "SampleImages/L002_R01_20210307212248.JPG",
+   "detections": [
+    {
+     "category": "3",
+     "conf": 0.00542,
+     "bbox": [
+      0,
+      0.004629,
+      0.1562,
+      0.4574
+     ]
+    },
+    {
+     "category": "1",
+     "conf": 0.0245,
+     "bbox": [
+      0.8864,
+      0.7611,
+      0.1135,
+      0.1925
+     ]
+    },
+    {
+     "category": "2",
+     "conf": 0.962,
+     "bbox": [
+      0.3609,
+      0.0009259,
+      0.1557,
+      0.4564
+     ]
+    }
+   ]
+  },
+  {
+   "file": "SampleImages/L002_R01_20210308022921.JPG",
+   "detections": [
+    {
+     "category": "1",
+     "conf": 0.967,
+     "bbox": [
+      0.3505,
+      0.3249,
+      0.2786,
+      0.2944
+     ]
+    }
+   ]
+  },
+  {
+   "file": "SampleImages/L002_R01_20210311030332.JPG",
+   "detections": [
+    {
+     "category": "1",
+     "conf": 0.948,
+     "bbox": [
+      0.5515,
+      0.3805,
+      0.3078,
+      0.4027
+     ]
+    }
+   ]
+  },
+  {
+   "file": "SampleImages/L002_R01_20210311030906.JPG",
+   "detections": [
+    {
+     "category": "1",
+     "conf": 0.953,
+     "bbox": [
+      0.6875,
+      0.5138,
+      0.2937,
+      0.4398
+     ]
+    }
+   ]
+  },
+  {
+   "file": "SampleImages/L002_R01_20210311031453.JPG",
+   "detections": [
+    {
+     "category": "1",
+     "conf": 0.0148,
+     "bbox": [
+      0.8588,
+      0.4101,
+      0.03593,
+      0.05925
+     ]
+    },
+    {
+     "category": "1",
+     "conf": 0.905,
+     "bbox": [
+      0,
+      0.4231,
+      0.2427,
+      0.3157
+     ]
+    }
+   ]
+  },
+  {
+   "file": "SampleImages/L002_R01_20210311041102.JPG",
+   "detections": [
+    {
+     "category": "1",
+     "conf": 0.881,
+     "bbox": [
+      0.3781,
+      0.3175,
+      0.1,
+      0.112
+     ]
+    }
+   ]
+  },
+  {
+   "file": "SampleImages/L002_R01_20210313092914.JPG",
+   "detections": [
+    {
+     "category": "1",
+     "conf": 0.831,
+     "bbox": [
+      0.4911,
+      0.5314,
+      0.07239,
+      0.1175
+     ]
+    }
+   ]
+  },
+  {
+   "file": "SampleImages/L002_R01_20210313235950.JPG",
+   "detections": [
+    {
+     "category": "1",
+     "conf": 0.0227,
+     "bbox": [
+      0.8614,
+      0.3749,
+      0.03489,
+      0.07685
+     ]
+    },
+    {
+     "category": "1",
+     "conf": 0.0525,
+     "bbox": [
+      0.8671,
+      0.4407,
+      0.1328,
+      0.362
+     ]
+    },
+    {
+     "category": "1",
+     "conf": 0.413,
+     "bbox": [
+      0.8671,
+      0.6481,
+      0.1328,
+      0.1796
+     ]
+    },
+    {
+     "category": "1",
+     "conf": 0.729,
+     "bbox": [
+      0.2781,
+      0.4944,
+      0.05156,
+      0.06388
+     ]
+    }
+   ]
+  },
+  {
+   "file": "SampleImages/L002_R01_20210314013521.JPG",
+   "detections": [
+    {
+     "category": "1",
+     "conf": 0.00796,
+     "bbox": [
+      0.8166,
+      0.7361,
+      0.03645,
+      0.05092
+     ]
+    },
+    {
+     "category": "1",
+     "conf": 0.0102,
+     "bbox": [
+      0.8635,
+      0.2481,
+      0.1364,
+      0.5768
+     ]
+    },
+    {
+     "category": "1",
+     "conf": 0.0102,
+     "bbox": [
+      0.8807,
+      0.4537,
+      0.0177,
+      0.025
+     ]
+    },
+    {
+     "category": "1",
+     "conf": 0.0418,
+     "bbox": [
+      0.7838,
+      0.7296,
+      0.06875,
+      0.06388
+     ]
+    },
+    {
+     "category": "1",
+     "conf": 0.534,
+     "bbox": [
+      0.863,
+      0.5249,
+      0.1369,
+      0.3944
+     ]
+    }
+   ]
+  },
+  {
+   "file": "SampleImages/L002_R01_20210314013742.JPG",
+   "detections": [
+    {
+     "category": "1",
+     "conf": 0.0109,
+     "bbox": [
+      0.8666,
+      0.6472,
+      0.1333,
+      0.1583
+     ]
+    },
+    {
+     "category": "1",
+     "conf": 0.195,
+     "bbox": [
+      0.8635,
+      0.5388,
+      0.1364,
+      0.3759
+     ]
+    },
+    {
+     "category": "1",
+     "conf": 0.945,
+     "bbox": [
+      0.4375,
+      0.3824,
+      0.1942,
+      0.1925
+     ]
+    }
+   ]
+  }
+ ],
+ "detection_categories": {
+  "1": "animal",
+  "2": "person",
+  "3": "vehicle"
+ },
+ "info": {
+  "detection_completion_time": "2024-03-23 16:26:40",
+  "format_version": "1.3",
+  "detector": "md_v5a.0.0.pt",
+  "detector_metadata": {
+   "megadetector_version": "v5a.0.0",
+   "typical_detection_threshold": 0.2,
+   "conservative_detection_threshold": 0.05
+  }
+ }
+}
